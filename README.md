@@ -10,5 +10,5 @@
 ShelfCube/ShelfCube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🎮 Game:Super Mario Avadance 2: Super Mario World
-Luigi là một nhân vật nổi tiếng trong loạt trò chơi Mario của Nintendo. Anh ta là anh trai của Mario và thường được biết đến với việc giúp đỡ anh trai trong các cuộc phiêu lưu.
+    -🎮 Game:Super Mario Avadance 2: Super Mario World
+   -Luigi là một nhân vật nổi tiếng trong loạt trò chơi Mario của Nintendo. Anh ta là anh trai của Mario và thường được biết đến với việc giúp đỡ anh trai trong các cuộc phiêu lưu.
